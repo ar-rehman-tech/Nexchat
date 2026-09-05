@@ -1,0 +1,15 @@
+# Environment variables
+.env
+
+# Uploads
+assets/uploads/*
+!assets/uploads/.gitkeep
+!assets/uploads/.htaccess
+
+# Logs and temp files
+*.log
+test_db.php
+
+# Operating system files
+.DS_Store
+Thumbs.db
